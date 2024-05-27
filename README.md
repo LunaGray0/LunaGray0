@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LunaGray0
-- 👀 I’m interested in Any languages / Aircrafts / Space development.
+- 👀 I’m interested in Space development.
 - 🌱 I’m currently learning Java / JavaScript / Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
